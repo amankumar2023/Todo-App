@@ -1,0 +1,56 @@
+div{
+    background-color: white;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.content {
+    text-align: center;
+    margin-top: 3cm;
+    border-radius: 1cm;
+  }
+h1{
+    color: white;
+    margin: auto;
+    width: 60%;
+    padding: 8px;
+    border-radius: 4cm;
+    background-color: black;
+    font-weight: bolder;
+}
+label{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    margin-left: 0.5cm;
+    border-radius: 0.2cm;
+    border-style:hidden;
+}
+.addBtn{
+    background-color: greenyellow;
+    font-weight: bold;
+    padding: 6px;
+}
+.deleteBtn{
+    background-color: red;
+    font-weight: bold;
+    padding: 4px 14px;
+    float: right;
+}
+button:hover {
+    color: white;
+  }
+ul{
+    padding-left: 0px;
+}
+ li{
+    text-align: left;
+    border-radius: 0.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(193, 193, 193, 0.14);
+    padding: 10px;
+    border: 2.5px solid #ffffff;
+    
+}
